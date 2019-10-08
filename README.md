@@ -18,20 +18,6 @@ For example, by typing "insulin" into the search box of CHEMBL function, the pro
 
 The output of this function is suitable to use as an input for Ligand Centric Network Models package. These output includes three columns; orderly, protein IDs, ligand IDs and SMILES strings. First lines of these insulin output is given below. 
 
-AKT1_HUMAN	CHEMBL2368946	CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)O[C@@H]1[C@H](O)C[C@@H](O)[C@H](O)[C@@H]1O)n2ccnc2
-AKT1_HUMAN	CHEMBL2368944	CCCCCCCCCCCCCCCC(=O)C[C@H](COP(=O)(O)O[C@@H]1[C@H](O)C[C@@H](O)[C@H](O)[C@@H]1O)C(=O)CCCCCCCCCCCCCCC
-AKT1_HUMAN	CHEMBL2368948	CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)O[C@@H]1[C@H](O)C[C@@H](O)[C@H](O)[C@@H]1O)OC
-AKT1_HUMAN	CHEMBL2368945	CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)O[C@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](CO)[C@H]1O)n2ccnc2
-AKT1_HUMAN	CHEMBL2368953	CCCCCCCCCCCCCCCCCCOC[C@H](COC(=O)O[C@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](CO)[C@H]1O)OC
-AKT1_HUMAN	CHEMBL2368954	CCCCCCCCCCCCCCCCCCOC[C@H](COC(=O)O[C@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](CO)[C@@H]1O)n2ccnc2
-AKT1_HUMAN	CHEMBL2368947	CCCCCCCCCCCCCCCCCCOC[C@H](COP(=O)(O)O[C@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](CO)[C@H]1O)OC
-AKT1_HUMAN	CHEMBL388978	CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35
-AKT1_HUMAN	CHEMBL200906	CN1C(=O)C(C(=O)Nc2nncs2)c3cc4occc4cc13
-AKT1_HUMAN	CHEMBL414139	COc1cc2c(Nc3ccc(Oc4ccccc4)cc3)c(cnc2cc1OCCCN5CCOCC5)C#N
-AKT1_HUMAN	CHEMBL318804	COc1cc2c(Nc3ccc(Sc4nccn4C)c(Cl)c3)c(cnc2cc1OCCCN5CCOCC5)C#N
-AKT1_HUMAN	CHEMBL260417	Oc1ccc(cc1)c2nc3[nH]nc(NC(=O)C4CC4)c3cc2Br
-
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/MehmetAzizYirik/ProteinLigandDataCollection/blob/master/LICENSE) file for details
 
