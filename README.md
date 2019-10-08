@@ -10,6 +10,8 @@ These package includes many functions to collect protein ligand interaction info
 
 The repository provides data collection scripts for protein-ligand interactions. The scripts were from my master thesis (2017). The thesis can be accessed from the link: http://seyhan.library.boun.edu.tr/record=b1841056~S5
 
+The dependencies (packages) might need updates.
+
 ## Input
 
 For example, by typing "insulin" into the search box of CHEMBL function, the protein-ligand interaction information can be collected from ChEMBL. 
